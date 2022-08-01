@@ -1,5 +1,5 @@
 <?php
-require_once "../BusinessLogic/RemoveTodoList.php";
+require_once "../Helper/Input.php";
 require_once "../BusinessLogic/RemoveTodoList.php";
 
 function viewRemoveTodoList()
